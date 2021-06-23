@@ -7,10 +7,3 @@
 |:-|:-|
 |2|3|
 
-3sdsa
-sasaa
-<<<<<<< HEAD
-##rennsyusss
-=======
-##rennsyu
->>>>>>> modify
